@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dev-Zz
+- 👋 Hi, I’m Zz
 - 👀 I’m interested in Python/Selenium
 - 🌱 I’m currently learning Python/Selenium
 
