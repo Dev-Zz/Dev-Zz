@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zz
-- 👀 I’m interested in Python/Selenium
-- 🌱 I’m currently learning Python/Selenium
+- 👀 I’m interested in Python/Selenium/Flask
+- 🌱 I’m currently learning Python/Selenium/Flask
 
 <!---
 Dev-Zz/Dev-Zz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
