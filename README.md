@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zz
-- 👀 I’m interested in Python/Selenium/Requests/Django/Laravel
+- 👀 I’m interested in Python/Selenium/Requests/Django
 - 🌱 I’m currently learning Laravel
 
 <!---
